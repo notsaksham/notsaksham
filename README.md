@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Possums can live for up to 11 years.
 
 
-![Hit me up on linkedin from my profile :smile:]{https://github-readme-stats.vercel.app/api/?username=notsaksham}
+![Hit me up on linkedin from my profile :smile:](https://github-readme-stats.vercel.app/api/?username=notsaksham)
 
