@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning golang,pentesting and kali
 - 👯 I’m looking to collaborate on webdev, deep learning or anything fun
 - 🤔 I’m looking for help with open source 
